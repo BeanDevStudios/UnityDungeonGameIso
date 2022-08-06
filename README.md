@@ -1,5 +1,7 @@
 # Stab Stab - Final Project
 
+**Download the latest release [HERE!](https://github.com/BeanDevStudios/UnityDungeonGameIso/releases)**
+
 ## Game Pitch
 You are a young adventurer trying to become a great hero. The world is starting to change, and the forces of evil are beginning to plot their revenge on the human realm. It is up to you to send them back to the shadows and save the human realm. Will you become a great hero?
 ## Rubric
